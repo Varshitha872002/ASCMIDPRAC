@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fe7fc8c-c921-4596-9317-99a0a83789d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LAB-7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-7/src/gflights/exceptions/BookingNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-7/src/gflights/exceptions/DuplicateBookingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-7/src/gflights/model/BookingModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-7/src/gflights/repository/BookingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-7/src/gflights/ui/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-7/src/gflights/util/MainMenuUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-7/src/gflights/util/MenuUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/src/main/java/gflights/exceptions/BookingNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/src/main/java/gflights/exceptions/DuplicateBookingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/src/main/java/gflights/model/BookingModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/src/main/java/gflights/repository/BookingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/src/main/java/gflights/ui/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/src/main/java/gflights/util/MainMenuUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB-8/src/main/java/gflights/util/MenuUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/main/java/com/ecz/exceptions/InvalidProductException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/main/java/com/ecz/model/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/main/java/com/ecz/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/main/java/com/ecz/model/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/main/java/com/ecz/pcex/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/main/java/com/ecz/pcex/GSJunitProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/main/java/com/ecz/pcex/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/test/java/com/ecz/model/UserManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/test/java/com/ecz/pcex/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/test/java/com/ecz/pcex/GSJunitProductLifeCycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ld-junit/src/test/java/com/ecz/pcex/GSJunitProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/src/main/java/com/demo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/src/main/java/com/demo/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/src/main/java/com/demo/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../le-rest-api/src/test/java/com/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/midex/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/midex/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/midex/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/midex/ui/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/midex/util/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/midex/ProductServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB-7/src/gflights/model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ld-junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ld-junit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ld-junit/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ld-junit/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-8/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2jkEI81QjsVt0uhHsmK0iHmFvZA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "JUnit.ProductServiceTest.testAddProduct.executor": "Run",
+    "JUnit.ProductServiceTest.testDeleteProduct.executor": "Run",
+    "JUnit.ProductServiceTest.testGetAllProducts.executor": "Run",
+    "JUnit.ProductServiceTest.testGetProduct.executor": "Run",
+    "JUnit.ProductServiceTest.testUpdateProduct.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Varshi",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ProductServiceTest.testDeleteProduct">
+    <configuration name="ProductServiceTest.testAddProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="midterm-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.midex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.midex" />
+      <option name="MAIN_CLASS_NAME" value="com.midex.ProductServiceTest" />
+      <option name="METHOD_NAME" value="testAddProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.testDeleteProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="midterm-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.midex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.midex" />
+      <option name="MAIN_CLASS_NAME" value="com.midex.ProductServiceTest" />
+      <option name="METHOD_NAME" value="testDeleteProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.testGetAllProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="midterm-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.midex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.midex" />
+      <option name="MAIN_CLASS_NAME" value="com.midex.ProductServiceTest" />
+      <option name="METHOD_NAME" value="testGetAllProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.testGetProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="midterm-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.midex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.midex" />
+      <option name="MAIN_CLASS_NAME" value="com.midex.ProductServiceTest" />
+      <option name="METHOD_NAME" value="testGetProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceTest.testUpdateProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="midterm-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.midex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.midex" />
+      <option name="MAIN_CLASS_NAME" value="com.midex.ProductServiceTest" />
+      <option name="METHOD_NAME" value="testUpdateProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceTest.testDeleteProduct" />
+        <item itemvalue="JUnit.ProductServiceTest.testUpdateProduct" />
+        <item itemvalue="JUnit.ProductServiceTest.testGetAllProducts" />
+        <item itemvalue="JUnit.ProductServiceTest.testGetProduct" />
+        <item itemvalue="JUnit.ProductServiceTest.testAddProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe7fc8c-c921-4596-9317-99a0a83789d8" name="Changes" comment="" />
+      <created>1721922595436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721922595436</updated>
+    </task>
+    <servers />
+  </component>
+</project>
